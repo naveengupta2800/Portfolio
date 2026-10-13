@@ -41,7 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-             I’m a Full Stack Developer fresher with a strong passion for building
+             I'm a Full Stack Developer fresher with a strong passion for building
             modern, responsive web applications. I enjoy working on both front-end
             and back-end technologies and continuously improving my skills through
              hands-on projects.
@@ -74,7 +74,7 @@ const About = () => {
           >
             <img
               src={profileImage}
-              alt="Yashasvi Tiwari"
+              alt="Naveen Gupta"
               className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
           </Tilt>
